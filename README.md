@@ -6,3 +6,4 @@ ongko
 eko
 aldi
 arko
+ariani
